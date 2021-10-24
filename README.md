@@ -1,8 +1,8 @@
 # macosDevSetupScript
 
-``` git clone ```
-``` chmod +x macosFoodticket.sh ```
-``` ./macosFoodticket.sh ```
+1. ``` git clone ``` 
+2. ``` chmod +x macosFoodticket.sh ```
+3. ``` ./macosFoodticket.sh ```
 
 Script to automate development environment on macos computer
 
